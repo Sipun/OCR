@@ -12,8 +12,9 @@ OCR
 ୫. ନିମ୍ନୋକ୍ତ କମାଣ୍ଡ ରନ କରନ୍ତୁ -
 
 "c:\Program Files (x86)\Tesseract-OCR\tesseract" image.png out -l ori
-(  ଉଦାହରଣ ସ୍ୱରୂପ ଡେସ୍କଟପରେ ଥିବା ଇମେଜ ପାଇଁ - 'C:\Users\User\Desktop>"c:\Program Files (x86)\Tesseract-OCR\tesseract" image.png out -l ori' 
 
-ଏଠାରେ image.png ବଦଳରେ ନିଜ ଇମେଜ ନାମ ଦିଅନ୍ତୁ ଓ user ବଦଳରେ ନିଜ କମ୍ପ୍ୟୁଟର ୟୁଜର ନାମ ବ୍ୟବହାର କରନ୍ତୁ । ) 
+ଉଦାହରଣ ସ୍ୱରୂପ ଡେସ୍କଟପରେ ଥିବା ଇମେଜ ପାଇଁ - 'C:\Users\User\Desktop>"c:\Program Files (x86)\Tesseract-OCR\tesseract" image.png out -l ori'
+
+ଏଠାରେ image.png ବଦଳରେ ନିଜ ଇମେଜ ନାମ ଦିଅନ୍ତୁ ଓ user ବଦଳରେ ନିଜ କମ୍ପ୍ୟୁଟର ୟୁଜର ନାମ ବ୍ୟବହାର କରନ୍ତୁ । 
 
 ୫. କିଛି ଅସୁବିଧା ହେଲେ ' sipun@live.com' କୁ ମେଲ କରିପାରିବେ ।
